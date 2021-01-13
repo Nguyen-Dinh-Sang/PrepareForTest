@@ -1,0 +1,9 @@
+- Mã nguồn mỡ là gì đặc điểm, định nghĩa lợi ích.
+- Các loại giấy giấy phép GPL 80% LGPL (chi tiết các loại giấy phép)
+- Mô tả kiến trúc phần mềm mã nguồn mỡ
+	lý do vì sao dọn
+	chức năng
+	dùng để làm gì
+	tại sao k dùng mã nguồn mỡ khác
+	tại sao không dùng mã nguồn đóng tương tự
+	hiệu suất các kiểu
